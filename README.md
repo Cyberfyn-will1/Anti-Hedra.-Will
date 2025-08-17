@@ -19,3 +19,5 @@ Android security took to scan and detect Hedra-like spyware, remote control port
 ```bash
 chmod +x antihedra.sh
 bash antihedra.sh
+
+Note: If prompted, password is " newton "
